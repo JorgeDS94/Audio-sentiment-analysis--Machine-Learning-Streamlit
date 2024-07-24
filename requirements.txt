@@ -1,0 +1,13 @@
+torch
+transformers
+librosa
+streamlit==1.30
+pandas
+numpy
+matplotlib
+keras
+tensorflow
+resampy
+soundfile
+audio-recorder-streamlit
+pyaudio
